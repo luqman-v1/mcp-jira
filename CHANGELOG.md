@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0] - 2026-10-02
+## [0.0.1] - 2026-10-02
 
 ### Added
 - Initial release of `mcp-jira` stdio MCP server.

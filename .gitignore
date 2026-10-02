@@ -5,6 +5,7 @@ mcp-jira
 *.so
 *.dylib
 bin/
+dist/
 
 # Environment files
 .env

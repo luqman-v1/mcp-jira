@@ -15,7 +15,7 @@ import (
 	"github.com/luqman-v1/mcp-jira/pkg/jira"
 )
 
-var version = "1.0.0"
+var version = "0.0.1"
 
 func main() {
 	versionFlag := flag.Bool("version", false, "Print version and exit")
