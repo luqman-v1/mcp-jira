@@ -1,0 +1,19 @@
+# Binaries
+mcp-jira
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
